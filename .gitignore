@@ -1,2 +1,4 @@
 node_modules/
 infrastructure/.terraform
+infrastructure/aws_hero_hackathon
+infrastructure/aws_hero_hackathon.pub
